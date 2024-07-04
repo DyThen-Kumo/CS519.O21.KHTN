@@ -23,9 +23,31 @@ Nhận diện chữ viết tay tiếng Việt gặp nhiều thách thức do tí
 Nhận diệng chữ viết tay tiếng Việt bằng OCR dựa trên Transformer (TrcOCR).
 - Input: Một hoặc nhiều hình ảnh chữ viết tay tiếng Việt và dataset chữ viết tay tiếng Việt đã được gán nhãn.
 - Output: Văn bản được trích xuất từ hình ảnh đầu vào. Văn bản này có thể được lưu dưới dạng chuỗi ký tự hoặc dưới dạng tệp văn bản (.txt) hoặc các định dạng tài liệu khác (ví dụ: .docx, .pdf).
-### Computational Thinking:
+### Computational Thinking
 
 | Step | Decomposition | Abstraction | Pattern Recognition | Algorithm |
 | :---: | --- | --- | --- | ---|
 | 1 | Thu thập dữ liệu |  |  |  |
 | 2 | Nhận diện chữ viết tay tiếng Việt | Bài toán nhận diện chữ viết tay bằng Transformer nói chung | Bài toán nhận diện chữ viết tay dựa trên Transformer đã được đào tạo trước nhưng chỉ trên dữ liệu tiếng Anh | Finetuning mô hình TrOCR được đào tạo trên dữ liệu tiếng Anh và đào tạo lại trên dữ liệu tiếng Việt. |
+
+## Kết quả
+Chi tiết ở trong slide.
+
+## Reference
+[1]. Minghao Li, Tengchao Lv, Jingye Chen, Lei Cui, Yijuan Lu, Dinei A. F. Florêncio, Cha Zhang, Zhoujun Li, Furu Wei:
+TrOCR: Transformer-Based Optical Character Recognition with Pre-trained Models. AAAI 2023: 13094-13102
+
+[2]. Jan Kohút, Michal Hradis:
+Fine Tuning Is a Surprisingly Effective Domain Adaptation Baseline in Handwriting Recognition. CoRR abs/2302.06308 (2023)
+
+[3]. Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin:
+Attention is All You Need. NIPS 2017: 5998-6008
+
+[4]. Michael Jungo, Lars Vögtlin, Atefeh Fakhari, Nathan Wegmann, Rolf Ingold, Andreas Fischer, Anna Scius-Bertrand:
+Impact of Ground Truth Quality on Handwriting Recognition. CoRR abs/2312.09037 (2023)
+
+[5]. Vittorio Pippi, Silvia Cascianelli, Christopher Kermorvant, Rita Cucchiara:
+How to Choose Pretrained Handwriting Recognition Models for Single Writer Fine-Tuning. CoRR abs/2305.02593 (2023)
+
+[6]. Mst. Shapna Akter, Hossain Shahriar, Alfredo Cuzzocrea, Nova Ahmed, Carson K. Leung:
+Handwritten Word Recognition using Deep Learning Approach: A Novel Way of Generating Handwritten Words. CoRR abs/2303.07514 (2023)
