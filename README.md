@@ -27,4 +27,4 @@ Nhận diệng chữ viết tay tiếng Việt bằng OCR dựa trên Transforme
 ## Computational Thinking
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
-| 1 | Nguyễn Duy Thắng 22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn | 225222521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn1333 | 22521333@gm.uit.edu.vn | [github](https://github.com/DyThen-Kumo) |
+| 1 | Nguyễn Duy Thắng 22521333@gm. uit.edu.vn22521333@gm.uit.edu.vn225 21333@gm.uit.edu.vn22521333@gm .uit.edu.vn2252133 3@gm.uit.edu.vn | 225222521333@gm.u it.edu.vn22521333@gm.uit.edu.vn22521333@gm.ui t.edu.vn2 2521333@gm.uit.edu. vn22521333@gm. uit.edu.vn22 521333@gm.uit.edu.vn1333 | 22521333@gm.uit.edu.vn | [github](https://github.com/DyThen-Kumo) |
