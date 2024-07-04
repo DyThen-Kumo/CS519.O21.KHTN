@@ -1,3 +1,3 @@
 # CS519.O21.KHTN
-![logo](https://www.uit.edu.vn/)
+[logo](banner_uit.png)
 All about final project
