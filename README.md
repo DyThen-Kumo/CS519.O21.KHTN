@@ -24,8 +24,9 @@ Nhận diệng chữ viết tay tiếng Việt bằng OCR dựa trên Transforme
 - Input: Một hoặc nhiều hình ảnh chữ viết tay tiếng Việt và dataset chữ viết tay tiếng Việt đã được gán nhãn.
 - Output: Văn bản được trích xuất từ hình ảnh đầu vào. Văn bản này có thể được lưu dưới dạng chuỗi ký tự hoặc dưới dạng tệp văn bản (.txt) hoặc các định dạng tài liệu khác (ví dụ: .docx, .pdf).
 - Computational Thinking:
-| Step | Decomposition | Abstraction | Pattern Recognition |
+
+| **Step | Decomposition | Abstraction | Pattern Recognition** |
 | :---: | --- | --- | --- | --- |
 | 1 | Thu thập dữ liệu |  |  |
 | 2 | Nhận diện chữ viết tay tiếng Việt | Bài toán nhận diện chữ viết tay bằng Transformer nói chung | Bài toán nhận diện chữ viết tay dựa trên Transformer đã được đào tạo trước nhưng chỉ trên dữ liệu tiếng Anh |
-| Algorithm | Finetuning mô hình TrOCR được đào tạo trên dữ liệu tiếng Anh và đào tạo lại trên dữ liệu tiếng Việt. |
+| **Algorithm** | Finetuning mô hình TrOCR được đào tạo trên dữ liệu tiếng Anh và đào tạo lại trên dữ liệu tiếng Việt. |
