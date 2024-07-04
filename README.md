@@ -23,7 +23,7 @@ Nhận diện chữ viết tay tiếng Việt gặp nhiều thách thức do tí
 Nhận diệng chữ viết tay tiếng Việt bằng OCR dựa trên Transformer (TrcOCR).
 - Input: Một hoặc nhiều hình ảnh chữ viết tay tiếng Việt và dataset chữ viết tay tiếng Việt đã được gán nhãn.
 - Output: Văn bản được trích xuất từ hình ảnh đầu vào. Văn bản này có thể được lưu dưới dạng chuỗi ký tự hoặc dưới dạng tệp văn bản (.txt) hoặc các định dạng tài liệu khác (ví dụ: .docx, .pdf).
-- Computational Thinking:
+### Computational Thinking:
 
 | **Step | Decomposition | Abstraction | Pattern Recognition** |
 | :---: | --- | --- | --- | --- |
