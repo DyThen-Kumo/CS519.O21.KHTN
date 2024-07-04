@@ -25,4 +25,6 @@ Nhận diệng chữ viết tay tiếng Việt bằng OCR dựa trên Transforme
 - Output: Văn bản được trích xuất từ hình ảnh đầu vào. Văn bản này có thể được lưu dưới dạng chuỗi ký tự hoặc dưới dạng tệp văn bản (.txt) hoặc các định dạng tài liệu khác (ví dụ: .docx, .pdf).
 
 ## Computational Thinking
-hehe
+| STT | Họ tên | MSSV | Email | Github |
+| :---: | --- | --- | --- | --- |
+| 1 | Nguyễn Duy Thắng 22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn | 225222521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn22521333@gm.uit.edu.vn1333 | 22521333@gm.uit.edu.vn | [github](https://github.com/DyThen-Kumo) |
