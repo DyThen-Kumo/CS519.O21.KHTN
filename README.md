@@ -31,18 +31,16 @@ Nhận diệng chữ viết tay tiếng Việt bằng OCR dựa trên Transforme
 | 2 | Nhận diện chữ viết tay tiếng Việt | Bài toán nhận diện chữ viết tay bằng Transformer nói chung | Bài toán nhận diện chữ viết tay dựa trên Transformer đã được đào tạo trước nhưng chỉ trên dữ liệu tiếng Anh | Finetuning mô hình TrOCR được đào tạo trên dữ liệu tiếng Anh và đào tạo lại trên dữ liệu tiếng Việt. |
 
 ## Data
-Dữ liệu được lấy từ Kaggle: [link](https://www.kaggle.com/datasets/ducthinhhust/vietocr)
-
-Label (ground truth) được lấy ra và tổng hợp trong folder gt.
-
-Dữ liệu sau đó được tách ra thành các tập train, test, val:
+* Dữ liệu được lấy từ Kaggle: [link](https://www.kaggle.com/datasets/ducthinhhust/vietocr)
+* Label (ground truth) được lấy ra và tổng hợp trong folder gt.
+* Dữ liệu sau đó được tách ra thành các tập train, test, val:
 
 |  | Train | Test | Val |
 | :---: | --- | --- | --- |
 | Kích thước | 5097 | 1024 | 1161 |
 
 ## Kết quả
-Chi tiết ở trong slide.
+* Chi tiết ở trong slide.
 
 ## Reference
 [1]. Minghao Li, Tengchao Lv, Jingye Chen, Lei Cui, Yijuan Lu, Dinei A. F. Florêncio, Cha Zhang, Zhoujun Li, Furu Wei:
