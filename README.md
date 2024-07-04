@@ -29,7 +29,3 @@ Nhận diệng chữ viết tay tiếng Việt bằng OCR dựa trên Transforme
 | 1 | Thu thập dữ liệu |  |  |
 | 2 | Nhận diện chữ viết tay tiếng Việt | Bài toán nhận diện chữ viết tay bằng Transformer nói chung | Bài toán nhận diện chữ viết tay dựa trên Transformer đã được đào tạo trước nhưng chỉ trên dữ liệu tiếng Anh |
 | Algorithm | Finetuning mô hình TrOCR được đào tạo trên dữ liệu tiếng Anh và đào tạo lại trên dữ liệu tiếng Việt. |
-## Computational Thinking
-| STT | Họ tên | MSSV | Email | Github |
-| :---: | --- | --- | --- | --- |
-| 1 | Nguyễn Duy Thắng 22521333@gm. uit.edu.vn22521333@gm.uit.edu.vn225 21333@gm.uit.edu.vn22521333@gm .uit.edu.vn2252133 3@gm.uit.edu.vn | 225222521333@gm.u it.edu.vn22521333@gm.uit.edu.vn22521333@gm.ui t.edu.vn2 2521333@gm.uit.edu. vn22521333@gm. uit.edu.vn22 521333@gm.uit.edu.vn1333 | 22521333@gm.uit.edu.vn | [github](https://github.com/DyThen-Kumo) |
