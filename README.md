@@ -32,7 +32,9 @@ Nhận diệng chữ viết tay tiếng Việt bằng OCR dựa trên Transforme
 
 ## Data
 Dữ liệu được lấy từ Kaggle: [link](https://www.kaggle.com/datasets/ducthinhhust/vietocr)
+
 Label (ground truth) được lấy ra và tổng hợp trong folder gt.
+
 Dữ liệu sau đó được tách ra thành các tập train, test, val:
 
 |  | Train | Test | Val |
